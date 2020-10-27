@@ -6,7 +6,7 @@ $host=gethostname();
 echo "Container Name : ";
 echo $host;
 ?>
-<p> Welcome to the Hell~! </p>
+<p> Welcome ~! </p>
 </div>
 </body>
 </html>
